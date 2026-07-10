@@ -40,7 +40,7 @@ Generating examples for 'tar' using model 'llama3.2'...
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/mano.git
+git clone https://github.com/Suman99pro/mano.git
 cd mano
 chmod +x mano
 sudo mv mano /usr/local/bin/mano
